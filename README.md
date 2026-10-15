@@ -2,8 +2,6 @@
 
 Full-stack developer from **Paraguay 🇵🇾**. I work across **PHP, Java, Dart and TypeScript**: web backends and APIs, admin panels, React frontends and mobile apps, and I ship them to real production environments: Docker, Linux servers, VPNs, on-site hardware.
 
-![Profile views](https://komarev.com/ghpvc/?username=Pacotez12&label=Profile%20views&color=5865F2&style=flat)
-
 - 🏭 **Work:** production systems for RFID traceability, inventory and access control, used daily by retail and event clients. That includes PHP and Java (Spring Boot) APIs, React dashboards, Flutter apps for handheld RFID readers, label encoding and printing, and the on-premise deploys behind them.
 - 📱 **Side project:** [**Pockt**](https://github.com/Pacotez12/pockt), an offline-first personal finance app for Android (Flutter, Riverpod, Drift, encrypted Google Drive backup).
 - 🦷 **Web:** [**agendturnos**](https://github.com/Pacotez12/agendturnos-prog4), an appointment-booking system for a dental clinic (Laravel 13, PostgreSQL, Redis, Docker, HAProxy).
