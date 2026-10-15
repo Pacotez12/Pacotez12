@@ -33,7 +33,6 @@ Full-stack developer from **Paraguay 🇵🇾**. I work across **PHP, Java, Dart
 
 #### Contact
 
-[![Email](https://img.shields.io/badge/Email-marco.godoy.brizuela%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:marco.godoy.brizuela@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Brizuela-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-brizuela-godoy-342b151aa/)
 
 <details>
