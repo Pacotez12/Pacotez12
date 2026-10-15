@@ -2,10 +2,23 @@
 
 Full-stack developer from **Paraguay 🇵🇾**. I work across **PHP, Java, Dart and TypeScript**: web backends and APIs, admin panels, React frontends and mobile apps, and I ship them to real production environments: Docker, Linux servers, VPNs, on-site hardware.
 
-- 🏭 **Work:** production systems for RFID traceability, inventory and access control, used daily by retail and event clients. That includes PHP and Java (Spring Boot) APIs, React dashboards, Flutter apps for handheld RFID readers, label encoding and printing, and the on-premise deploys behind them.
+- 🏭 **Work:** production systems for RFID traceability, inventory, label printing and access control, used daily by retail, pharma and event clients. Highlights below.
 - 📱 **Side project:** [**Pockt**](https://github.com/Pacotez12/pockt), an offline-first personal finance app for Android (Flutter, Riverpod, Drift, encrypted Google Drive backup).
 - 🦷 **Web:** [**agendturnos**](https://github.com/Pacotez12/agendturnos-prog4), an appointment-booking system for a dental clinic (Laravel 13, PostgreSQL, Redis, Docker, HAProxy).
 - 🌱 **Currently:** spec-driven + test-driven development, and UI polish on mobile.
+
+#### Featured work
+
+<sub>Client projects in private repositories; described without client names.</sub>
+
+**RFID inventory & traceability platform**<br>
+Laravel + Filament back office and REST API, plus a Flutter app for handheld RFID readers. Bulk tag reading for stock counts, tag-to-product linking, barcode fallback and offline-first sync, deployed on-premise per client with Docker and Nginx.
+
+**GS1 label printing for pharmaceutical traceability**<br>
+Laravel 11 + Filament 3 system that drives industrial inkjet printers over a persistent TCP-JSON proxy. Queued print batches, reprint-request workflow, camera-based verification and role-based access control (Sanctum, spatie/permission).
+
+**Tool inventory & lending control**<br>
+Java Spring Boot API with WebSockets and a React + TypeScript dashboard on PostgreSQL. Tracks tools, loans and returns in real time for industrial sites.
 
 #### Languages
 
@@ -30,13 +43,6 @@ Full-stack developer from **Paraguay 🇵🇾**. I work across **PHP, Java, Dart
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-#### Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pacotez12&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Pacotez12&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
 
 #### Contact
 
