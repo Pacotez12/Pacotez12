@@ -36,7 +36,7 @@ Full-stack developer from **Paraguay 🇵🇾**. I work across **PHP, Java, Dart
 #### Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pacotez12&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pacotez12&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Pacotez12&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
